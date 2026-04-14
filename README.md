@@ -1,6 +1,6 @@
 # Affichage-Api
 ## 📱 Description
-Jeu de Tic-Tac-Toe développé en Kotlin pour Android.
+Affichage des informations contenues dans l'API https://api.sampleapis.com/avatar/
 
 ## 🛠 Technologies
 - Kotlin
