@@ -26,9 +26,17 @@ Affichage des informations contenues dans l'API https://api.sampleapis.com/avata
 
 
 ## 🚀 Fonctionnalités
-- Utilise Retrofit pour generer des classe a partir d<un api en ligne
-- Lit les informations and le fichier JSON de l'API a l'URL https://api.sampleapis.com/avatar/
-- Affiche les personnages et leur information dnas l'application
+- Utilise Retrofit pour consommer une API REST
+- Récupère les données JSON depuis l’API
+- Transforme les données en objets Kotlin
+- Affiche les personnages et leurs informations dans l’application
+
+## 🧠 Compétences démontrées
+- Consommation d’API REST
+- Manipulation de données JSON
+- Utilisation de Retrofit
+- Développement Android en Kotlin
+- Gestion de l’affichage de données dynamiques
 
 ## 👨‍💻 Mes contributions
 Application développée entièrement par moi-même.
